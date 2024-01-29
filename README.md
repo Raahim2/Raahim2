@@ -29,7 +29,14 @@ Hello! I'm Raahim, a developer proficient in HTML, CSS, JS, Python, C, and Java.
 Welcome to Bright Home Furniture, where style meets comfort! Discover an exquisite collection of high-quality furniture at your fingertips. Our Django-powered e-commerce platform offers a seamless shopping experience, allowing you to explore and order from our diverse range of furniture products online.
 
 - **Repo:** [Link to the Repo](https://github.com/Raahim2/BrightHome)
-- **Demo:** [Link to the Website](www.brighthomesfurniture.com/)
+- **Demo:** [Link to the Website](https://www.brighthomesfurniture.com/)
+
+### Pyplot
+
+Plot Matplotlib graphs effortlessly with Django-Pyplot! This Django web application simplifies data visualization, allowing users to create various graphs by entering data without any coding. Enjoy a user-friendly interface, diverse graph types, and seamless integration with Django and Matplotlib.
+
+- **Repo:** [Link to the Repo](https://github.com/Raahim2/BrightHome)
+- **Demo:** [Link to the Website](https://django-pyplot.vercel.app)
 
 
 ### Plant Disease Classification
@@ -37,7 +44,7 @@ Welcome to Bright Home Furniture, where style meets comfort! Discover an exquisi
 In this project, I developed a deep learning model for plant disease classification using TensorFlow CNN. The goal was to create a robust system capable of identifying diseases in plants based on images, facilitating early detection and intervention in agriculture.
 
 - **Repo:** [Link to the Repo](https://github.com/Raahim2/Machine-Learning/blob/main/Deep%20learning/Plant%20Disease/Plant%20Disease%20Classification.ipynb)
-- **Demo:** [Link to the Website](www.brighthomesfurniture.com/)
+
 
 
 ## GitHub Stats
