@@ -48,8 +48,12 @@ In this project, I developed a deep learning model for plant disease classificat
 
 ### 🎓 Certifications
 
-- **Certified Web Developer:** [Certification Name](link-to-certification)
-- **Machine Learning Specialist:** [Certification Name](link-to-certification)
+- **Certified Web Developer:** [Responsive Web Design  | FreeCodeCamp ](https://www.freecodecamp.org/certification/fcccf6c7a77-76df-4cc4-a231-3eefe5b90cf8/responsive-web-design)
+- **Web Developer:** [Web Devoloper | Coursera ](https://www.coursera.org/account/accomplishments/verify/Q9H7J2S8D3GR)
+- **Machine Learning Specialist:** [Machine Learning Specialist | Stanford Online ](https://coursera.org/share/bda974f17b41c59198363d4bd10b4665)
+- **Python Certification:** [Python | Coursera ](https://coursera.org/share/9415545eed03d47d25b037781d375e4a)
+- **Javascript Certification:** [Javascript | HackerRank ](https://www.hackerrank.com/certificates/86a83c2330d5)
+
 
 
 ## GitHub Stats
@@ -62,4 +66,4 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/raahim-sh
 
 ---
 
-⭐️ From [Your Name](https://www.linkedin.com/in/raahim-shaikh-5a186024a)
+⭐️ From [Raahim](https://www.linkedin.com/in/raahim-shaikh-5a186024a)
