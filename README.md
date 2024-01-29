@@ -2,7 +2,7 @@
 
 Versatile Developer | Machine Learning Enthusiast | Full Stack Developer
 
-🌐 [Your Website or Portfolio]
+🌐 [Visit my Portfolio](https://raahim2.github.io/WebDev.github.io/Portfolio/index.html)
 
 ## About Me
 
@@ -22,34 +22,32 @@ Hello! I'm Raahim, a developer proficient in HTML, CSS, JS, Python, C, and Java.
 - **Database:** SQL, PostgreSQL
 - **Other Tools:** Git, VS Code, Jupyter , Android Studio
 
-## Projects
+## Some Of My Projects
 
-### [Project Name 1]
+### Bright Home Furniture
 
-Brief description of the project. Highlight key features and technologies used.
+Welcome to Bright Home Furniture, where style meets comfort! Discover an exquisite collection of high-quality furniture at your fingertips. Our Django-powered e-commerce platform offers a seamless shopping experience, allowing you to explore and order from our diverse range of furniture products online.
 
-Repo: [Link to the Repo]
-Demo: [Link to the Demo]
+- **Repo:** [Link to the Repo](https://github.com/Raahim2/BrightHome)
+- **Demo:** [Link to the Website](www.brighthomesfurniture.com/)
 
-### [Project Name 2]
 
-Brief description of the project. Highlight key features and technologies used.
+### Plant Disease Classification
 
-Repo: [Link to the Repo]
-Demo: [Link to the Demo]
+In this project, I developed a deep learning model for plant disease classification using TensorFlow CNN. The goal was to create a robust system capable of identifying diseases in plants based on images, facilitating early detection and intervention in agriculture.
 
-## Blog
+- **Repo:** [Link to the Repo](https://github.com/Raahim2/Machine-Learning/blob/main/Deep%20learning/Plant%20Disease/Plant%20Disease%20Classification.ipynb)
+- **Demo:** [Link to the Website](www.brighthomesfurniture.com/)
 
-I share my thoughts and experiences on my [Blog](link-to-your-blog).
 
 ## GitHub Stats
 
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
+[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Raahim2&icons=true&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Connect with Me
 
-Feel free to connect with me on [LinkedIn](your-linkedin-profile) for professional discussions and project collaborations.
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/raahim-shaikh-5a186024a) for professional discussions and project collaborations.
 
 ---
 
-⭐️ From [Your Name](link-to-your-profile)
+⭐️ From [Your Name](https://www.linkedin.com/in/raahim-shaikh-5a186024a)
