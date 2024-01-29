@@ -46,6 +46,11 @@ In this project, I developed a deep learning model for plant disease classificat
 - **Repo:** [Link to the Repo](https://github.com/Raahim2/Machine-Learning/blob/main/Deep%20learning/Plant%20Disease/Plant%20Disease%20Classification.ipynb)
 
 
+### 🎓 Certifications
+
+- **Certified Web Developer:** [Certification Name](link-to-certification)
+- **Machine Learning Specialist:** [Certification Name](link-to-certification)
+
 
 ## GitHub Stats
 
