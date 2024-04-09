@@ -59,7 +59,7 @@ In this project, I developed a deep learning model for plant disease classificat
 ## GitHub Stats
 
 [![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Raahim2&icons=true&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
-
+[](https://github-readme-stats.vercel.app/api/top-langs/?username=Raahim2)
 ## Connect with Me
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/raahim-shaikh-5a186024a) for professional discussions and project collaborations.
