@@ -58,7 +58,7 @@ In this project, I developed a deep learning model for plant disease classificat
 
 ## GitHub Stats
 
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Raahim2&icons=true&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
+[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Raahim2&icons=true&hide=contribs&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Raahim2&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Raahim2&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 ![](https://github-profile-trophy.vercel.app/?username=Raahim2&theme=radical&no-frame=false&no-bg=false&margin-w=4)
