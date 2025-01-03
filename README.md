@@ -2,7 +2,7 @@
 
 Versatile Developer | Machine Learning Enthusiast | Full Stack Developer
 
-🌐 [Visit my Portfolio](https://raahim2.github.io/WebDev.github.io/Portfolio/index.html)
+🌐 [Visit my Portfolio](https://raahim-portfolio.vercel.app/)
 
 ## About Me
 
