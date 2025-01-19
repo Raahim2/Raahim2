@@ -6,44 +6,45 @@ Versatile Developer | Machine Learning Enthusiast | Full Stack Developer
 
 ## About Me
 
-Hello! I'm Raahim, a developer proficient in HTML, CSS, JS, Python, C, and Java. My interests span both web development and machine learning. Currently diving into the world of deep learning and contributing to open source projects.
+Hello! I'm Raahim, a developer proficient in Next JS, React Ntaive, Python, Kotlin etc. My interests span in web development , machine learning , android development.
 
-- 🔭 I’m currently a CSE college student 
+- 🔭 I’m currently a CSE(ICB) college student 
 - 🌱 I’m continuously learning and exploring new technologies
 - 👯 I’m open to collaboration on exciting projects
 
 ## Skills
 
-- **Languages:** HTML, CSS, JavaScript, Python, C, Java
-- **Web Development:** Django
-- **Data Science:** NumPy, Pandas, Matplotlib, Seaborn
-- **Machine Learning:** Scikit-learn
-- **Deep Learning:** Keras , TensorFlow
-- **Database:** SQL, PostgreSQL
-- **Other Tools:** Git, VS Code, Jupyter , Android Studio
+
+- **Languages :** Python, Java, JavaScript, C , HTML , CSS , TypeScript , Kotlin
+- **Frameworks :** NextJS, ReactJS , ReactNative ,Matplotlib , OpenCV ,Tensorflow ,Flask, Django ,Bootstrap ,Tailwind , Numpy , Pandas
+- **Tools & Databases :** VSCode , Jupyter Notebook , Android Studio ,MongoDB , PostgreSQL ,NodeJS ,Vercel , Github
+- **Miscellaneous :** Data Science, Machine Learning ,Deep Learning, App Development, Web Developtment , Data Structures
+
 
 ## Some Of My Projects
+
+### GenTube
+
+A cross-platform Android/iOS application built with React Native, enabling users to generate AI-powered videos effortlessly using advanced machine learning models.
+
+- **Repo:** [Link to the Repo](https://github.com/Raahim2/GenTube)
+- **ApkLink:** [App Install Link](https://github.com/Raahim2/GenTube/raw/refs/heads/main/Builds/GenTube.apk)
+
 
 ### Bright Home Furniture
 
 Welcome to Bright Home Furniture, where style meets comfort! Discover an exquisite collection of high-quality furniture at your fingertips. Our Django-powered e-commerce platform offers a seamless shopping experience, allowing you to explore and order from our diverse range of furniture products online.
 
 - **Repo:** [Link to the Repo](https://github.com/Raahim2/BrightHome)
-- **Demo:** [Link to the Website](https://www.brighthomesfurniture.com/)
+- **Demo:** [Link to the Website](https://brighthome.vercel.app)
 
-### Pyplot
+### GitMax
 
-Plot Matplotlib graphs effortlessly with Django-Pyplot! This Django web application simplifies data visualization, allowing users to create various graphs by entering data without any coding. Enjoy a user-friendly interface, diverse graph types, and seamless integration with Django and Matplotlib.
+A Github Stats and Automation Platform
 
-- **Repo:** [Link to the Repo](https://github.com/Raahim2/BrightHome)
-- **Demo:** [Link to the Website](https://django-pyplot.vercel.app)
-
-
-### Plant Disease Classification
-
-In this project, I developed a deep learning model for plant disease classification using TensorFlow CNN. The goal was to create a robust system capable of identifying diseases in plants based on images, facilitating early detection and intervention in agriculture.
-
-- **Repo:** [Link to the Repo](https://github.com/Raahim2/Machine-Learning/blob/main/Deep%20learning/Plant%20Disease/Plant%20Disease%20Classification.ipynb)
+- **Repo:** [Link to the Repo](https://github.com/Raahim2/GitMax)
+- **Demo:** [Link to the Website](https://gitmax.vercel.app)
+  
 
 
 ### 🎓 Certifications
