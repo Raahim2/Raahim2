@@ -33,6 +33,7 @@ Hello! I'm Raahim, a developer proficient in Next JS, React Native, Python, etc.
 
 
 **Repo:** [Link to the Repo](https://github.com/Raahim2/DevStudio)
+
 **Live Link:** [Demo](https://devstudio-ai.vercel.app/)
 
 
@@ -43,7 +44,7 @@ Hello! I'm Raahim, a developer proficient in Next JS, React Native, Python, etc.
 - Optimized for offline use with a fast, lightweight 10MB APK for low-end Android devices
 - Released on the Google Play Store, currently live with 10+ active downloads and updates in progress
 
-- **Repo:** [Link to the Repo](https://github.com/Raahim2/Sharpify)
+**Repo:** [Link to the Repo](https://github.com/Raahim2/Sharpify)
 
 ### GitMax ( GitHub Dashboard + Automation )
 
@@ -52,8 +53,8 @@ Hello! I'm Raahim, a developer proficient in Next JS, React Native, Python, etc.
 - Achieved an average API response time of under 200ms, improving data retrieval efficiency.
 - Facilitated user interactions with repositories, leading to a 15% increase in user engagement within the first month of deployment.
 
-- **Repo:** [Link to the Repo](https://github.com/Raahim2/GitMax)
-- **Demo:** [Link to the Website](https://gitmax.vercel.app)
+**Repo:** [Link to the Repo](https://github.com/Raahim2/GitMax)
+**Demo:** [Link to the Website](https://gitmax.vercel.app)
   
 
 
