@@ -6,7 +6,7 @@ Versatile Developer | Machine Learning Enthusiast | Full Stack Developer
 
 ## About Me
 
-Hello! I'm Raahim, a developer proficient in Next JS, React Ntaive, Python, Kotlin etc. My interests span in web development , machine learning , android development.
+Hello! I'm Raahim, a developer proficient in Next JS, React Native, Python, etc. My interests span in web development , machine learning , android development.
 
 - 🔭 I’m currently a CSE(ICB) college student 
 - 🌱 I’m continuously learning and exploring new technologies
@@ -15,32 +15,42 @@ Hello! I'm Raahim, a developer proficient in Next JS, React Ntaive, Python, Kotl
 ## Skills
 
 
-- **Languages :** Python, Java, JavaScript, C , HTML , CSS , TypeScript , Kotlin
-- **Frameworks :** NextJS, ReactJS , ReactNative ,Matplotlib , OpenCV ,Tensorflow ,Flask, Django ,Bootstrap ,Tailwind , Numpy , Pandas
-- **Tools & Databases :** VSCode , Jupyter Notebook , Android Studio ,MongoDB , PostgreSQL ,NodeJS ,Vercel , Github
-- **Miscellaneous :** Data Science, Machine Learning ,Deep Learning, App Development, Web Developtment , Data Structures
+- **Languages** : Python, Java, JavaScript, HTML , CSS
+- **Frameworks** : React Native, Next.JS, React.JS ,Flask ,Django ,Tailwind CSS
+- **Tools & Databases** : Github, Vercel, VSCode, Jupyter Notebook, Android Studio, MongoDB
+- **Miscellaneous** : App Development, Web Development, Machine Learning, Data Structures
+
 
 
 ## Some Of My Projects
 
-### GenTube
+### DevStudio Code Editor 
 
-A cross-platform Android/iOS application built with React Native, enabling users to generate AI-powered videos effortlessly using advanced machine learning models.
+- Designed and developed a AI-powered code editor using Electron and Next.js, optimized for productivity and performance
+- Integrated Gemini API to enable an in-editor AI coding assistant with real-time context awareness, improving developer efficiency
+- Integrated Monaco Editor to support live editing with syntax highlighting for 15+ languages
+- Built GitHub integration allowing users to stage, commit, and push directly from the editor using GitHub API
 
-- **Repo:** [Link to the Repo](https://github.com/Raahim2/GenTube)
-- **ApkLink:** [App Install Link](https://github.com/Raahim2/GenTube/raw/refs/heads/main/Builds/GenTube.apk)
+
+- **Repo:** [Link to the Repo](https://github.com/Raahim2/DevStudio)
+- **Live Link:** [Demo](https://devstudio-ai.vercel.app/)
 
 
-### Bright Home Furniture
+### Sharpify AI Image Enhancer
 
-Welcome to Bright Home Furniture, where style meets comfort! Discover an exquisite collection of high-quality furniture at your fingertips. Our Django-powered e-commerce platform offers a seamless shopping experience, allowing you to explore and order from our diverse range of furniture products online.
+- Developed a mobile image enhancer with 15+ real-time filters using React Native and OpenCV
+- Designed a lightweight, responsive UI with one-tap filter preview and before/after comparison
+- Optimized for offline use with a fast, lightweight 10MB APK for low-end Android devices
+- Released on the Google Play Store, currently live with 10+ active downloads and updates in progress
 
-- **Repo:** [Link to the Repo](https://github.com/Raahim2/BrightHome)
-- **Demo:** [Link to the Website](https://brighthome.vercel.app)
+- **Repo:** [Link to the Repo](https://github.com/Raahim2/Sharpify)
 
-### GitMax
+### GitMax ( GitHub Dashboard + Automation )
 
-A Github Stats and Automation Platform
+- Engineered GitMax, an AI-driven automation platform that autonomously generates complete GitHub projects.
+- Integrated GitHub Actions API automating repository updates while maintaining 100% uptime for seamless code pushes.
+- Achieved an average API response time of under 200ms, improving data retrieval efficiency.
+- Facilitated user interactions with repositories, leading to a 15% increase in user engagement within the first month of deployment.
 
 - **Repo:** [Link to the Repo](https://github.com/Raahim2/GitMax)
 - **Demo:** [Link to the Website](https://gitmax.vercel.app)
