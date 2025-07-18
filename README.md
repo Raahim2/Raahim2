@@ -32,8 +32,8 @@ Hello! I'm Raahim, a developer proficient in Next JS, React Native, Python, etc.
 - Built GitHub integration allowing users to stage, commit, and push directly from the editor using GitHub API
 
 
-- **Repo:** [Link to the Repo](https://github.com/Raahim2/DevStudio)
-- **Live Link:** [Demo](https://devstudio-ai.vercel.app/)
+**Repo:** [Link to the Repo](https://github.com/Raahim2/DevStudio)
+**Live Link:** [Demo](https://devstudio-ai.vercel.app/)
 
 
 ### Sharpify AI Image Enhancer
