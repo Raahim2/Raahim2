@@ -4,6 +4,15 @@ Versatile Developer | Machine Learning Enthusiast | Full Stack Developer
 
 🌐 [Visit my Portfolio](https://raahim-portfolio.vercel.app/)
 
+## 🚀 Projects
+
+| Title | Description | GitHub | Live | Tech Stack |
+|-------|-------------|--------|------|------------|
+| **ChatApp** | Real-time chat application with user authentication. | [🔗 GitHub](https://github.com/yourusername/chatapp) | [🌐 Live](https://chatapp.vercel.app) | ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black) |
+| **PreviewGen** | Generate live previews from user-uploaded content. | [🔗 GitHub](https://github.com/yourusername/previewgen) | [🌐 Live](https://previewgen.vercel.app) | ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white) |
+| **TaskBoard** | Trello-like task board with drag & drop. | [🔗 GitHub](https://github.com/yourusername/taskboard) | [🌐 Live](https://taskboard.vercel.app) | ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) |
+
+
 ## About Me
 
 Hello! I'm Raahim, a developer proficient in Next JS, React Native, Python, etc. My interests span in web development , machine learning , android development.
